@@ -1,0 +1,6 @@
+初始化版本库时会发生什么情况？为什么你需要这样做？
+no commit is automatically made at git initialization. Initialization is aimed to create a git directory.
+
+暂存区与工作目录和版本库有何不同？你认为它具有什么价值？
+staging area is kind of virtual space. it is aimed to create an intermediate stage and border of tracked fiel and untracked file.
+
