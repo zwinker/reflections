@@ -7,6 +7,7 @@ When I need to collaborate with other people on one project.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
+because it gives me the possiblity to decide whether and which part I want to syn from Gibhub to local.
     
 
 Describe the differences between forks, clones, and branches.  When would you
